@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @davidvrjn, David van Rooijen.</h1>
-<h3 align="center">An eager programmer interested in becoming an AI engineer</h3>
+<h3 align="center">An eager programmer interested in becoming an Ethical Hacker</h3>
 
 - 🌱 I’m currently studying **Computer Science at the University of Pretoria.**
 
